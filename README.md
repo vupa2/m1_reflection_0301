@@ -5,6 +5,7 @@ Bài 1: Học cách học
 - Nguyên lý của việc học
 - Các cách để học như cách học nhanh, đánh bay sự trì hoãn, Pomodoro
 - Công cụ hộ trợ ghi chú Evernote
+
 Bài 2: Học về Kanban
 - Thiết kế và quản lý công việc với Kanban
 - Công cụ Trello thiết kế Kanban
