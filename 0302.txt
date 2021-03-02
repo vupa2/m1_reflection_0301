@@ -1,0 +1,7 @@
+Nhập môn tư duy lập trình
+- Các chương trình được tạo ra bằng việc sắp xếp thứ tự các câu lệnh.
+- Câu điều kiện: các hành đồng được thực hiện hay không phụ thuộc vào các điều kiện được lập ra trước.
+- Vòng lặp: thực lại liên tiếp nhiều lần các hành động hoặc chuỗi hành động.
+- Điều kiện lồng nhau. Vòng lặp lồng nhau. Lồng cả vòng lặp và điều kiện.
+- Debug: sử dụng việc xem lại từng bước của câu lệnh để sửa lỗi.
+
