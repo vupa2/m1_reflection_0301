@@ -1,0 +1,16 @@
+Mô tả thuật toán bằng Pseudo code & Flowchart
+1. Lập trình là gì?
+- Là quá trình tạo ra các chỉ dẫn để ra lệnh cho máy tình hoàn thành một công việc nào đó
+- Các hoạt động chính liên quan đến lập trình như tìm hiểu yều cầu, phân tích thiết kế, viết code, kiểm thử, triển khai
+- Các loại hình lập trình chính có thể kể đến như web, desktop, mobile
+- Ngôn ngữ lập trình là phương tiện được sử dụng
+2. Thuật toán là gì?
+- Là một công thức bao gồm các bước thực hiện theo thứ tự để giải quyết một vấn đề nào đó
+- 2 cách để mô tả thuật toán là sử dụng pseudo code và flowchart
+3. Pseudo code
+- Còn được gọi là mã giả, sử dụng các ngôn ngữ tự nhiên lược bỏ những chi tiết không cần thiết để hiểu rõ việc giải thuật
+- Ưu điểm của việc sử dụng là nó đơn giản, không cần kiến thức để biểu diễn. Tuy nhiên pseudo code không có các quy định chặt chẽ dẫn đến việc không diễn đạt được.
+4. Flowchart
+- Còn được gọi là lưu đồ, nó sử dụng các ký hiệu và hình khối để miêu tả các bước trong việc giải thuật.
+- Flowchart có ưu điểm là trực quan, dễ quan sát để hiểu rõ giải thuật nhưng đòi hiểu nhiều quy định chặt chẽ và có thể gây khó nhớ
+- Một số hình khối ký hiệu chính như: Oval, chữ nhật, thoi, bình hành
