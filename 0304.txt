@@ -1,0 +1,25 @@
+Mô tả thuật toán bằng Pseudo code & Flowchart
+I. Git
+1. Git là gì?
+-  Git là một hệ thống điều khiển phiên bản (version control system) theo hình thức phân tán (distributed) được sử dụng phổ biến nhất hiện nay. Git được sử dụng để quản lý mã nguồn và ghi nhận các thay đổi trong suốt quá trình phát triển.
+- Một số chức năng có thể kế đến như khôi phục lại phiên bản cũ hoặc các dữ liệu vô tình bị xóa, xem lại các thay đổi theo thời gian bao gồm các thông tin như người thay đổi, thông điệp, ...
+- Ngoài git ra còn có những VCS như subversion, mercurial, bazaar, ...
+2. Một số thuật ngữ của Git
+- Snapshot là toàn bộ mã nguồn tại một thời điểm
+- Repository là nơi chứa toàn bộ mã nguồn và lịch sử. Có 2 loại repo là Local Repository ở trên máy tính cá nhân, và Remote Repository ở trên máy chủ chia sẻ.
+- Clone: sao chép một Remote Repository về máy của lập trình viên.
+- Pull: cập nhật mã nguồn từ một Remote Repository về Local Repository
+- Push: ddẩy mã nguồn từ Local Repository lên Remote Repository
+4. GitHub là gì?
+- GitHub là một dịch vụ được Git cũng cấp miễn phí.
+- Các lệnh cần nhớ là:
+  + git clone
+  + git add .
+  + git commit -m "message"
+  + git push
+II. HTML
+- HTML (Hypertext Markup Language) là ngôn ngữ được sử dụng để tạo ra các Webpage
+- File HTML được lưu với đuôi là .htm hay .html.
+- HTML bao gồm rất nhiều thẻ khác nhau được sử dụng với mục đích khác nhau, mỗi thẻ bao gồm 1 thẻ mở và đóng, vd <span> </span>
+- Các tag cần thiết để cấu thành HTML là <html>, <head>, <body>.
+- Để biễu diễn nhưng kí hiệu ta phải sử dụng đến HTML Entity
