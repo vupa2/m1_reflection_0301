@@ -1,0 +1,30 @@
+5. HTML Form & Table
+
+I. HTML Form
+1. Định nghĩa
+- Biểu mẫu (form) là cơ chế cho phép người dùng nhập dữ liệu và gửi về server
+- Một form có thể bao gồm nhiều trường nhập dữ liệu khác nhau
+2. Các tag hay dùng
+- <form>
+- <fieldset> <legend>
+- <input> <label>
+- <textarea>
+3. Các type thường dùng của input
+- name, text, email, date
+- checkbox, radio
+3. Các attribute thường dùng của input
+- name, id, value
+- <label> nối với <input> bằng for nối với id
+- value: sử dụng để gửi, đối với checkbox hay radio nên sử điền giá trị của value
+
+II. HTML Table
+1. Định nghĩa
+- Một form có thể bao gồm nhiều trường nhập dữ liệu khác nhau
+- Sử dụng bảng khi muốn hiển thị một danh sách các đối tượng với nhiều thuộc tính khác nhau
+2. Các thành phần chính
+- <table>
+- <thead>: <tr> -> <th>
+- <tbody>: <tr> -> <td>
+- <tfoot>: <tr> -> <td>
+3. Tag quan trọng
+- colspan, rowspan
